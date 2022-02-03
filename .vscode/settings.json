@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["favourite", "FYROIV"],
+  "css.lint.duplicateProperties": "error",
+  "css.lint.zeroUnits": "error",
+  "css.lint.ieHack": "error",
+  "css.lint.unknownProperties": "ignore"
+}
