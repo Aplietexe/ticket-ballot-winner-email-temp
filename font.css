@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Sky Text";
+  src: url("font/stfont.eot");
+  src: url("font/stfont.eot?#iefix") format("embedded-opentype"),
+    url("font/stfont.ttf") format("truetype"),
+    url("font/stfont.woff2") format("woff2"),
+    url("font/stfont.woff") format("woff"),
+    url("font/stfont.svg#SkyText-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
